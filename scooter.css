@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  height: 396px;
+}
+
+.footer {
+  padding: 22px 169px;
+  background-color: rgba(73, 85, 103, 1);
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer img {
+  margin-left: 335px;
+  position: relative;
+  top: 25px;
+}
+
+.text h1 {
+  font-family: "Space Mono", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: -2.14px;
+  color: white;
+}
+
+.apps {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.app {
+  width: 159px;
+  height: 56px;
+  border-radius: 4px;
+  background-color: rgba(229, 236, 244, 1);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 15px;
+}
+
+.app2 {
+  width: 182px;
+  height: 56px;
+  background-color: rgba(229, 236, 244, 1);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.text-01 h6 {
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 100%;
+  letter-spacing: -0.45px;
+  color: rgba(73, 85, 103, 1);
+}
+
+.text-01 h2 {
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: -0.89px;
+  color: rgba(73, 85, 103, 1);
+}
+
+.tag {
+  padding: 35px 168px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(51, 58, 68, 1);
+}
+
+.logo-01 {
+  display: flex;
+  align-items: center;
+  gap: 58px;
+}
+
+.links-01{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.links-01 a {
+  text-decoration: none;
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0px;
+  color: rgba(147, 156, 170, 1);
+
+}
+
+.webs{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
